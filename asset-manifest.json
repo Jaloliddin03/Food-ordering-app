@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Food-ordering-app/static/css/main.0ed60ab7.css",
+    "main.js": "/Food-ordering-app/static/js/main.5740ea25.js",
+    "static/js/787.9643ecdb.chunk.js": "/Food-ordering-app/static/js/787.9643ecdb.chunk.js",
+    "static/media/pizza_banner.png": "/Food-ordering-app/static/media/pizza_banner.8b37239c310c6def84c7.png",
+    "static/media/about-image.png": "/Food-ordering-app/static/media/about-image.ed863928a4532f3c08fa.png",
+    "static/media/foody.png": "/Food-ordering-app/static/media/foody.fd6aa0dc27378ac4227b.png",
+    "static/media/ClashDisplay-Medium.woff2": "/Food-ordering-app/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/Food-ordering-app/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/ClashDisplay-Bold.woff2": "/Food-ordering-app/static/media/ClashDisplay-Bold.e2f8628a6f360f644a76.woff2",
+    "static/media/revicons.eot": "/Food-ordering-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Food-ordering-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Food-ordering-app/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/Food-ordering-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Food-ordering-app/index.html",
+    "static/media/arrow-right-long-svgrepo-com.svg": "/Food-ordering-app/static/media/arrow-right-long-svgrepo-com.5d3dda1a0d9d7e0a34cb94f154f554b8.svg",
+    "static/media/cart.svg": "/Food-ordering-app/static/media/cart.b4cfdd0dfa255785a6f0420a01791ba0.svg",
+    "main.0ed60ab7.css.map": "/Food-ordering-app/static/css/main.0ed60ab7.css.map",
+    "main.5740ea25.js.map": "/Food-ordering-app/static/js/main.5740ea25.js.map",
+    "787.9643ecdb.chunk.js.map": "/Food-ordering-app/static/js/787.9643ecdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed60ab7.css",
+    "static/js/main.5740ea25.js"
+  ]
+}
